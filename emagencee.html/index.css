@@ -1,0 +1,45 @@
+.h4{
+    color: black;
+    text-align: center;
+    justify-content: center;
+    margin-top: 4rem;
+    font-family: sans-serif;
+    font-weight: 600;
+
+}
+.h3{
+     color: black;
+    text-align: center;
+    justify-content: center;
+    margin-top: 4rem;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.p1{
+     color: black;
+    text-align: center;
+    justify-content: center;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+.h44{
+     color: black;
+    text-align: center;
+    justify-content: center;
+    margin-top: 4rem;
+    font-family: sans-serif;
+    font-weight: 200;
+}
+.sq{
+    height: 4rem;
+    width: 4rem;
+    /* justify-items:center;
+    text-align: center; */
+    padding-left: 4rem;
+}
+.par2{
+    display: flex;
+    gap: 5rem;
+    justify-content: center;
+    text-align: center;
+}
